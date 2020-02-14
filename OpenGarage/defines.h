@@ -93,6 +93,8 @@
 #define BLYNK_PIN_JO    V8
 #define BLYNK_PIN_CO    V9
 #define BLYNK_PIN_JL    V10
+#define BLYNK_PIN_TC    V11
+#define BLYNK_PIN_TH    V12
 
 enum {
   DIRTY_BIT_JC = 0,
